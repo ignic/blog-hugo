@@ -185,9 +185,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "ignic@ignic.com"
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = ""
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "Título"
+      title = "Blog"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Este es mi nuevo blog"
       # whether to use typeit animation for subtitle
@@ -207,12 +207,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "ignic"
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -280,7 +280,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = "ignic@ignic.com"
     RSS = true # LoveIt NEW | 0.2.0
 
   # LoveIt CHANGED | 0.2.0 Page global config
