@@ -28,3 +28,4 @@ jobs:
         with:
           commit_message: Generate public site
           file_pattern: public
+          add_options: '-f'
