@@ -23,3 +23,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Generate public site
+          file_pattern: public
