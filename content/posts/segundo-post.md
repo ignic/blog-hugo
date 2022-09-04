@@ -1,7 +1,7 @@
 ---
 title: "Segundo Post"
 date: 2022-09-04T12:06:57+02:00
-draft: true
+draft: false
 ---
 
-Este es mi segundo post en borrador
+Este es mi segundo post
